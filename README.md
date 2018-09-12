@@ -1,2 +1,1 @@
-"# Iris-Client" 
-"Post your issues here!" 
+Post bugs & issues & suggestion for the client here.
